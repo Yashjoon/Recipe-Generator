@@ -1,5 +1,4 @@
 # Recipe-Generator
-### This is an updated version of a past project with more functionality. 
 
 #### Description
 This website takes in a list of ingredients inputted by the user and displays different
